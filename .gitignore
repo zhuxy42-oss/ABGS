@@ -1,0 +1,18 @@
+.idea/*
+*.pyc
+*.m~
+
+# data files
+*.obj
+*.vtk
+*.step
+checkpoints/
+datasets/
+runs
+result*/
+csv*/
+middle*/
+qem*/
+temp*/
+
+

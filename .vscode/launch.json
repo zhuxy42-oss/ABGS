@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "runtimeExecutable": "/home/zhuxunyang/anaconda3/envs/zxy/bin/python",  // 修改为正确的 Python 解释器路径
+            "env": {
+                "MY_VARIABLE": "my_value"
+            }
+        }
+    ]
+}
