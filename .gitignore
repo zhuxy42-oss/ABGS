@@ -6,6 +6,9 @@
 *.obj
 *.vtk
 *.step
+*.png
+*.pdf
+*.stl
 checkpoints/
 datasets/
 runs
